@@ -22,5 +22,6 @@ e.	Top 5 Customers and products by revenue.
 f.	Revenue trends based on Months and last year revenue.
 
 Final output
+![dashboard1](https://github.com/coldflows/salespowerbi/assets/17550445/6eb27137-6e3b-4f04-b158-a2dfbfec1733)
 
 
